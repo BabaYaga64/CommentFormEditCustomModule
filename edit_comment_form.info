@@ -1,0 +1,5 @@
+name = Edit Comment Form 
+description = Removes the subject line from comment form
+package = Epicodus Example
+core = 7.x
+files[] = edit_comment_form.module
