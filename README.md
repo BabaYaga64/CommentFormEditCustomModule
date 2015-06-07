@@ -13,8 +13,6 @@ This custom module removes the subject heading from the user comments form in th
 2. Launch a MAMP/LAMP/WAMP server and point the server to the root directory (main project folder)
 3. Open browser and navigate to http://localhost:8888/
 
-###Attn: Diane
-
 ###License
 
 Software is under MIT License

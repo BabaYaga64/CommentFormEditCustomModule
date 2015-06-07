@@ -10,9 +10,7 @@ function edit_comment_form_form_alter(&$form, &$form_state, $form_id) {
 
     $form['subject']['#title'] = 0;
     $form['subject']['#type'] = 0;
-    $form['author']['_author']['#type'] = 0;
-    $form['author']['_author']['#markup'] = 0;
-    $form['author']['_author']['#markup'] = 0;
+
 
     }
 }
